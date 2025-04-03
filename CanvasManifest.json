@@ -1,0 +1,50 @@
+{
+  "FormatVersion": "0.24",
+  "Header": {
+    "DocVersion": "1.343",
+    "MinVersionToLoad": "1.331",
+    "MSAppStructureVersion": "2.0"
+  },
+  "Properties": {
+    "AppCopilotSchemaName": "",
+    "AppCreationSource": "AppFromScratch",
+    "AppDescription": "",
+    "AppPreviewFlagsMap": {},
+    "Author": "",
+    "BindingErrorCount": 1,
+    "ContainsThirdPartyPcfControls": false,
+    "DefaultConnectedDataSourceMaxGetRowsCount": 500,
+    "DocumentAppType": "DesktopOrTablet",
+    "DocumentLayoutHeight": 768,
+    "DocumentLayoutLockOrientation": true,
+    "DocumentLayoutMaintainAspectRatio": true,
+    "DocumentLayoutOrientation": "landscape",
+    "DocumentLayoutScaleToFit": true,
+    "DocumentLayoutWidth": 1366,
+    "DocumentType": "App",
+    "EnableInstrumentation": true,
+    "FileID": "90c50f9b-9f53-4d1b-8215-924eee7605f6",
+    "Id": "ca5de98e-8a06-4619-ab36-7cc7986b0e6c",
+    "InstrumentationKey": "",
+    "LocalDatabaseReferences": "",
+    "ManualOfflineProfileId": "",
+    "Name": "palfw",
+    "OriginatingVersion": "1.343",
+    "ParserErrorCount": 0,
+    "ShowStatusBar": true
+  },
+  "PublishInfo": {
+    "AppName": "palfw",
+    "BackgroundColor": "RGBA(0,176,240,1)",
+    "IconColor": "RGBA(255,255,255,1)",
+    "IconName": "Edit",
+    "LogoFileName": "",
+    "PublishDataLocally": false,
+    "PublishResourcesLocally": false,
+    "PublishTarget": "player",
+    "UserLocale": "en-US"
+  },
+  "ScreenOrder": [
+    "Screen1"
+  ]
+}
