@@ -13,34 +13,15 @@
     "OverridableProperties": {},
     "Version": "1.0"
   },
-  "Button": {
-    "CustomGroupControlTemplateName": "",
-    "FirstParty": true,
-    "Id": "http://microsoft.com/appmagic/powercontrol/PowerApps_CoreControls_ButtonCanvas",
-    "IsComponentTemplate": false,
-    "IsCustomGroupControlTemplate": false,
-    "IsPcfControl": true,
-    "IsPremiumPcfControl": false,
-    "IsWidgetTemplate": false,
-    "LastModifiedTimestamp": "0",
-    "Name": "PowerApps_CoreControls_ButtonCanvas",
-    "OverridableProperties": {},
-    "TemplateDisplayName": "Button",
-    "Version": "0.0.44"
-  },
   "groupContainer": {
-    "CustomGroupControlTemplateName": "",
     "FirstParty": true,
     "Id": "http://microsoft.com/appmagic/groupContainer",
     "IsComponentTemplate": false,
-    "IsCustomGroupControlTemplate": false,
     "IsPcfControl": false,
-    "IsPremiumPcfControl": false,
-    "IsWidgetTemplate": true,
+    "IsWidgetTemplate": false,
     "LastModifiedTimestamp": "0",
     "Name": "groupContainer",
-    "OverridableProperties": {},
-    "Version": "1.3.0"
+    "Version": "1.0"
   },
   "Host": {
     "CustomGroupControlTemplateName": "",
@@ -57,19 +38,19 @@
     "OverridableProperties": {},
     "Version": "1.6.0"
   },
-  "label": {
+  "htmlViewer": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
-    "Id": "http://microsoft.com/appmagic/label",
+    "Id": "http://microsoft.com/appmagic/htmlViewer",
     "IsComponentTemplate": false,
     "IsCustomGroupControlTemplate": false,
     "IsPcfControl": false,
     "IsPremiumPcfControl": false,
     "IsWidgetTemplate": true,
     "LastModifiedTimestamp": "0",
-    "Name": "label",
+    "Name": "htmlViewer",
     "OverridableProperties": {},
-    "Version": "2.5.1"
+    "Version": "2.1.0"
   },
   "screen": {
     "CustomGroupControlTemplateName": "",
@@ -84,20 +65,5 @@
     "Name": "screen",
     "OverridableProperties": {},
     "Version": "1.0"
-  },
-  "Text": {
-    "CustomGroupControlTemplateName": "",
-    "FirstParty": true,
-    "Id": "http://microsoft.com/appmagic/powercontrol/PowerApps_CoreControls_TextCanvas",
-    "IsComponentTemplate": false,
-    "IsCustomGroupControlTemplate": false,
-    "IsPcfControl": true,
-    "IsPremiumPcfControl": false,
-    "IsWidgetTemplate": false,
-    "LastModifiedTimestamp": "0",
-    "Name": "PowerApps_CoreControls_TextCanvas",
-    "OverridableProperties": {},
-    "TemplateDisplayName": "Text",
-    "Version": "0.0.50"
   }
 }
